@@ -8,7 +8,6 @@
 - [Coding in university](./studies/coding.md)
   - [C / C++](./studies/c.md)
   - [Assembly](./studies/ASM.md)
-  - [Embedded](./studies/Embedded.md)
   - [What about ...?](./studies/missing.md)
 - [Bachelor Thesis](./studies/bachelor_thesis.md)
 
@@ -21,9 +20,10 @@
 
 # My first lines of code - Again?
 
-- [Messing Linux](./selftaught/linux.md) -[Bricking my first PHP site]
+- [Messing with Linux](./selftaught/linux.md)
 - [Teaching myself JS](./selftaught/javascript.md)
 - [Teaching myself TS](./selftaught/typescript.md)
+- [Docker](./selftaught/docker.md)
 - [My First Project](./selftaught/first_api.md)
 - [Spotify Part](./selftaught/spotify_party.md)
 - [Enter Rust](./selftaught/Rust.md)
