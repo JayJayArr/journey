@@ -17,6 +17,7 @@
 - [There is a journey ahead of you](./work/things_didnt_know.md)
 - [Replacing .csv with T-SQL](./work/sql.md)
 - [Deploying vs Maintaining](./work/deploy_maintain.md)
+- [We can do anything](./work/anything.md)
 
 # My first lines of code - Again?
 
