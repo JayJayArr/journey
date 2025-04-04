@@ -22,3 +22,5 @@ The same goes for your view of others which makes the four stages a purely subje
 You will get the best picture when first assessing yourself and asking others about their point of view.
 
 I unknowingly chose a job where I could learn forever, and I love it.
+
+Want to know some more about the things I didn't know? Go ahead, the list is long.

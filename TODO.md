@@ -4,3 +4,4 @@
 
 - [ ] Chapter on open source
 - [ ] Markdown, Neovim
+- [ ] Windows
