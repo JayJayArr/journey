@@ -13,7 +13,7 @@
 
 # Work
 
-- [What is Remote Desktop?](./work/rdp.md)
+- [What is Remote Desktop? - Endless learning](./work/rdp.md)
 - [There is a journey ahead of you](./work/things_didnt_know.md)
 - [Replacing .csv with T-SQL](./work/sql.md)
 - [Deploying vs Maintaining](./work/deploy_maintain.md)
