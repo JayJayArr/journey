@@ -15,12 +15,14 @@
 
 - [What is Remote Desktop? - Endless learning](./work/rdp.md)
 - [There is a journey ahead of you](./work/things_didnt_know.md)
-- [Replacing .csv with T-SQL](./work/sql.md)
 - [Deploying vs Maintaining](./work/deploy_maintain.md)
 - [We can do anything](./work/anything.md)
+- [Deleting a whole site in the database](./work/deleting_site.md)
+- [Oopsies](./work/oopsies.md)
 
 # My first lines of code - Again?
 
+- [Replacing .csv with T-SQL](./selftaught/sql.md)
 - [Messing with Linux](./selftaught/linux.md)
 - [Teaching myself JS](./selftaught/javascript.md)
 - [Teaching myself TS](./selftaught/typescript.md)

@@ -2,7 +2,8 @@
 
 You started a job after studying and didn't know about RDP? What else didn't you know?
 
-Well here is a _small_ list in no particular order, if you are looking for some inspiration this might be a good place to look:
+Well here is a _small_ list in no particular order, I will keep it updated as I hopefully learn more stuff.
+If you are looking for some inspiration this might be a good place to look:
 
 - IP addresses, Netmasks, Gateways, including how to track and manage them
 - linux, all the different distros
