@@ -31,6 +31,7 @@
 - [Spotify Part](./selftaught/spotify_party.md)
 - [Enter Rust](./selftaught/Rust.md)
 - [Rewrite it in Rust](./selftaught/Rewrite_it_in_Rust.md)
+- [VIM Motions](./selftaught/vim.md)
 
 # Tech
 
