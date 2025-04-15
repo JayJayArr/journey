@@ -9,6 +9,28 @@ Having an option to delete everything inside some braces is awesome, a quick "d 
 The synergy between vim motions and markdown is also insanely good. I started taking notes in markdown using Obsidian (heavily inspired by NoBoilerplate i gotta say).
 After some time playing with vim someone told me there are vim motions also in Obsidian which globalizes the workflow across the different tools.
 
-What surprised me even more is that vim motions are practically everywhere in development tools. From VS Code, across all editors.
+What surprised me even more is that vim motions are practically everywhere in development tools. From VS Code, across all editors and even many tools.
 
-If you can type quickly, the next step is vim motions.
+Here are some motions to get you started
+
+```bash
+d i { #to delete inside the {}
+
+```
+
+```bash
+ dd p #to switch two lines
+
+```
+
+```bash
+Ctrl + u  #to go up
+
+```
+
+```bash
+Ctrl + d  #to go down
+
+```
+
+If you can type quickly, the next step are vim motions.
