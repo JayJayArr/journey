@@ -10,3 +10,4 @@ This is a list of all the stuff I have heard great things about and that I want 
 - [ ] Game Engines - why is it an engine?
 - [ ] Yocto Project - When do you use it, what does it actually do?
 - [ ] Terraform
+- [ ] WebScraping /w Python
