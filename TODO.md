@@ -5,3 +5,5 @@
 - [ ] Chapter on open source
 - [ ] Markdown, Neovim
 - [ ] Windows
+- [ ] Projet Ideas
+  - [ ] WebScraping
