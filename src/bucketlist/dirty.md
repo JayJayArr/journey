@@ -11,3 +11,4 @@ This is a list of all the stuff I have heard great things about and that I want 
 - [ ] Yocto Project - When do you use it, what does it actually do?
 - [ ] Terraform
 - [ ] WebScraping /w Python
+- [ ] Ollama
