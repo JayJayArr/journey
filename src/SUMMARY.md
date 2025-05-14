@@ -33,6 +33,7 @@
 - [Rewrite it in Rust](./selftaught/Rewrite_it_in_Rust.md)
 - [VIM Motions](./selftaught/vim.md)
 - [AI/LLMs](./selftaught/llm.md)
+- [CI/CD](./selftaught/CICD.md)
 
 # Tech
 
