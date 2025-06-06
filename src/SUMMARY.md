@@ -32,8 +32,10 @@
 - [Enter Rust](./selftaught/Rust.md)
 - [Rewrite it in Rust](./selftaught/Rewrite_it_in_Rust.md)
 - [VIM Motions](./selftaught/vim.md)
+- [Markdown](./selftaught/markdown.md)
 - [AI/LLMs](./selftaught/llm.md)
 - [CI/CD](./selftaught/CICD.md)
+- [YAGNI](./selftaught/yagni.md)
 
 # Tech
 

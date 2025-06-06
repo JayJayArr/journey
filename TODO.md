@@ -4,6 +4,7 @@
 
 - [ ] Chapter on open source
 - [ ] Markdown, Neovim
-- [ ] Windows
-- [ ] Projet Ideas
+- [ ] WINDOWS
+- [ ] Project Ideas
   - [ ] WebScraping
+  - [ ] Rebuilding big stuff e.g. Redis
