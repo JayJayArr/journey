@@ -10,3 +10,4 @@
 - [ ] Project Ideas
   - [ ] WebScraping
   - [ ] Rebuilding big stuff e.g. Redis
+  - [ ] Homelabbing
